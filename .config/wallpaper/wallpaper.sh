@@ -1,1 +1,1 @@
-xwallpaper --zoom alpine-linux-wallpaper.png
+xwallpaper --zoom "$HOME/Pictures/Wallpapers/alpine-linux-wallpaper.png"
